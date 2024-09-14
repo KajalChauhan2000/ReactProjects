@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "rollno": "1",
+      "name": "Pankaj Shukla",
+      "city": "bhopal",
+      "fees": 40000,
+      "id": "1a47"
+    },
+    {
+      "rollno": "2",
+      "name": "Manoj Shukla",
+      "city": "Indore",
+      "fees": 45000,
+      "id": "17f2"
+    },
+    {
+      "id": "217d",
+      "rollno": "101",
+      "name": "kamya",
+      "city": "jabalpur",
+      "fees": "50000"
+    },
+    {
+      "id": "753f",
+      "rollno": "122",
+      "name": "kajal chauhan",
+      "city": "bhopal",
+      "fees": "35000"
+    }
+  ]
+}
